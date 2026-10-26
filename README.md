@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there im Gianluca👋
+
+I just started my internship as a software engineer.
+
+What im learning:
+- Building software as a service
+- Terraforming
+- Building infrastructure
+- Working with containers
+- Typescript
+- Python
 
 <!--
 **GianlucaSchulz/GianlucaSchulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
